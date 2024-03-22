@@ -1,38 +1,27 @@
-### Hi there 👋
+Hi there 👋
 
-Backend Programmer | Golang | .NET Core
-About Me
+I'm Yasin Saee, a Backend Programmer with a passion for crafting efficient and scalable solutions. With 3 years of experience, I've specialized in Golang and MongoDB at RavanErtebat Asr (Aec), and independently explored .NET Core, Flutter, and other technologies.
+Experience
 
-Experienced backend programmer with a strong proficiency in Golang and .NET Core. Passionate about crafting efficient, scalable solutions to complex problems. Excels in database management with expertise in MongoDB, SQL Server, and MySQL. Skilled in developing RESTful APIs and microservices architecture.
+Backend Programmer
+RavanErtebat Asr (Aec)
+
+    Developed and maintained backend systems using Golang, MongoDB, and MySQL.
+    Designed and implemented RESTful APIs, facilitating communication between various applications.
+    Leveraged MongoDB and MySQL to optimize database performance and scalability.
+    Collaborated with frontend developers, ensuring smooth integration of backend services with Angular and Flutter applications.
+
 Skills
 
-    Languages: Golang, .NET Core, SQL
+    Languages: Golang, .NET Core, Flutter
     Databases: MongoDB, SQL Server, MySQL
     Web Development: Angular (Component-based development)
     Tools & Technologies: Git, Docker
 
-Experience
+Contact
 
-Backend Programmer
-[Your Previous Company], [Location]
-[Dates]
+Feel free to reach out to me via email or LinkedIn for collaboration opportunities or any inquiries:
 
-    Developed and maintained backend systems using Golang and .NET Core.
-    Designed and implemented RESTful APIs for various applications.
-    Enhanced database performance and scalability through efficient database management techniques.
-    Collaborated with frontend developers to integrate backend services seamlessly.
+    Email: yasinvsaee@gmail.com
 
-<!--
-**YasinSaee/YasinSaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's connect and build amazing projects together! 🚀
