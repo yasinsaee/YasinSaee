@@ -5,20 +5,25 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasinsaee" alt="yasinsaee" /></a> </p>
 
-- 🔭 I’m currently working on **Gis (Hamrah Aval & Irancell)**
+- 🔭 I’m currently working on  
+  **[Gis (Hamrah Aval & Irancell)](https://www.example.com)**, **[Xvision](https://www.example.com)**, **[TCL](https://www.example.com)**, **[Mobinnet](https://www.example.com)**
 
-- 🌱 I’m currently learning **Advanced Go Concurrency Patterns**
+- 🌱 I’m currently learning  
+  **Advanced Go Concurrency Patterns**, **Microservices Architecture**, **Unit Testing & TDD in Go**, **Latest Angular Features**
 
-- 👯 I’m looking to collaborate on **Open-source Golang libraries**
+- 👯 I’m looking to collaborate on  
+  **Open-source Golang libraries**, **Backend & Microservices Projects**, **Angular Integrations**, **MongoDB / SQL Tools**
 
-- 💬 Ask me about **Golang & Backend Development**
+- 💬 Ask me about  
+  **Golang & Backend Development**, **.NET Core**, **Microservices**, **gRPC & JWT**, **MongoDB & SQL**, **Angular Integration**
 
-- 📫 How to reach me **yasinvsaee@gmail.com**
+- 📫 How to reach me  
+  **yasinvsaee@gmail.com**
 
-- ⚡ Fun fact 
-    **🏋️‍♂️ I’m into bodybuilding & fitness 
-        🌍 Love traveling and exploring new cities**
-
+- ⚡ Fun fact  
+  **🏋️‍♂️ I’m into bodybuilding & fitness**  
+  **🌍 Love traveling and exploring new cities**  
+  **💻 Passionate about building scalable backend systems in Go & .NET Core**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yasinsaee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasinsaee" height="30" width="40" /></a>
