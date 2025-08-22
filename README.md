@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasin Saeeniya</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200"/>
 </p>
 <h3 align="center">Go & .NET Core Backend Developer | Angular & SQL | gRPC, JWT, Echo | 6+ years experience</h3>
 
