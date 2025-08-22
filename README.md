@@ -9,25 +9,43 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasinsaee" alt="yasinsaee" /></a> 
 </p>
 
-- 🔭 I’m currently working on  
-  **Gis (Hamrah Aval & Irancell)**, **[Xvision](https://www.xvision.ir)**, **[TCL](https://www.tcl.ir)**, **[Mobinnet](https://www.shop.mobinnet.ir)**
+---
 
-- 🌱 I’m currently learning  
-  **Advanced Go Concurrency Patterns**, **Microservices Architecture**, **Unit Testing & TDD in Go**, **Latest Angular Features**
+### 🔭 I’m currently working on
+- **Gis (Hamrah Aval & Irancell)**  
+- **[Xvision](https://www.xvision.ir)**  
+- **[TCL](https://www.tcl.ir)**  
+- **[Mobinnet](https://www.shop.mobinnet.ir)**
 
-- 👯 I’m looking to collaborate on  
-  **Open-source Golang libraries**, **Backend & Microservices Projects**, **Angular Integrations**, **MongoDB / SQL Tools**
+### 🌱 I’m currently learning
+- **Advanced Go Concurrency Patterns**  
+- **Microservices Architecture**  
+- **Unit Testing & TDD in Go**  
+- **Latest Angular Features**
 
-- 💬 Ask me about  
-  **Golang & Backend Development**, **.NET Core**, **Microservices**, **gRPC & JWT**, **MongoDB & SQL**, **Angular Integration**
+### 👯 I’m looking to collaborate on
+- **Open-source Golang libraries**  
+- **Backend & Microservices Projects**  
+- **Angular Integrations**  
+- **MongoDB / SQL Tools**
 
-- 📫 How to reach me  
-  **yasinvsaee@gmail.com**
+### 💬 Ask me about
+- **Golang & Backend Development**  
+- **.NET Core**  
+- **Microservices**  
+- **gRPC & JWT**  
+- **MongoDB & SQL**  
+- **Angular Integration**
 
-- ⚡ Fun fact  
-  **🏋️‍♂️ I’m into bodybuilding & fitness**  
-  **🌍 Love traveling and exploring new cities**  
-  **💻 Passionate about building scalable backend systems in Go & .NET Core**
+### 📫 How to reach me
+- **yasinvsaee@gmail.com**
+
+### ⚡ Fun fact
+- 🏋️‍♂️ I’m into bodybuilding & fitness  
+- 🌍 Love traveling and exploring new cities  
+- 💻 Passionate about building scalable backend systems in Go & .NET Core
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -46,10 +64,16 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
+---
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasinsaee&show_icons=true&locale=en&layout=compact" alt="yasinsaee" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yasinsaee&show_icons=true&theme=radical" alt="yasinsaee" />
 </p>
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasinsaee&theme=radical" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinsaee&layout=compact&theme=radical" alt="Top Languages" />
 </p>
