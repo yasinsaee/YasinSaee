@@ -1,27 +1,29 @@
-Hi there 👋
+<h1 align="center">Hi 👋, I'm YasinSaeeniya</h1>
+<h3 align="center">Go & .NET Core Backend Developer | Angular & SQL | gRPC, JWT, Echo, MinIO | 6+ years experience</h3>
 
-I'm Yasin Saee, a Backend Programmer with a passion for crafting efficient and scalable solutions. With 3 years of experience, I've specialized in Golang and MongoDB at RavanErtebat Asr (Aec), and independently explored .NET Core, Flutter, and other technologies.
-Experience
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasinsaee&label=Profile%20views&color=0e75b6&style=flat" alt="yasinsaee" /> </p>
 
-Backend Programmer
-RavanErtebat Asr (Aec)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasinsaee" alt="yasinsaee" /></a> </p>
 
-    Developed and maintained backend systems using Golang, MongoDB, and MySQL.
-    Designed and implemented RESTful APIs, facilitating communication between various applications.
-    Leveraged MongoDB and MySQL to optimize database performance and scalability.
-    Collaborated with frontend developers, ensuring smooth integration of backend services with Angular and Flutter applications.
+- 🔭 I’m currently working on **Gis (Hamrah Aval & Irancell)**
 
-Skills
+- 🌱 I’m currently learning **Advanced Go Concurrency Patterns**
 
-    Languages: Golang, .NET Core, Flutter
-    Databases: MongoDB, SQL Server, MySQL
-    Web Development: Angular (Component-based development)
-    Tools & Technologies: Git, Docker
+- 👯 I’m looking to collaborate on **Open-source Golang libraries**
 
-Contact
+- 💬 Ask me about **Golang & Backend Development**
 
-Feel free to reach out to me via email or LinkedIn for collaboration opportunities or any inquiries:
+- 📫 How to reach me **yasinvsaee@gmail.com**
 
-    Email: yasinvsaee@gmail.com
+- ⚡ Fun fact **🏋️‍♂️ I’m into bodybuilding & fitness**
 
-Let's connect and build amazing projects together! 🚀
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/yasinsaee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasinsaee" height="30" width="40" /></a>
+<a href="https://instagram.com/yasinsaee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasinsaee" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasinsaee&show_icons=true&locale=en&layout=compact" alt="yasinsaee" /></p>
