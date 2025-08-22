@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm YasinSaeeniya</h1>
-<h3 align="center">Go & .NET Core Backend Developer | Angular & SQL | gRPC, JWT, Echo, MinIO | 6+ years experience</h3>
+<h3 align="center">Go & .NET Core Backend Developer | Angular & SQL | gRPC, JWT, Echo | 6+ years experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasinsaee&label=Profile%20views&color=0e75b6&style=flat" alt="yasinsaee" /> </p>
 
