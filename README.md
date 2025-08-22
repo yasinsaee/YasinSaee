@@ -15,8 +15,8 @@
 
 - 📫 How to reach me **yasinvsaee@gmail.com**
 
-- ⚡ Fun fact ** 🏋️‍♂️ I’m into bodybuilding & fitness 
-🌍 Love traveling and exploring new cities **
+- ⚡ Fun fact **🏋️‍♂️ I’m into bodybuilding & fitness 
+🌍 Love traveling and exploring new cities**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
